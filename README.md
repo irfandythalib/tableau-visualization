@@ -1,1 +1,1 @@
-# Learn How To Make Visualizaion using Tableau
+# Learn How To Make Visualization using Tableau
